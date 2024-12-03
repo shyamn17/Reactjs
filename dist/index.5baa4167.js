@@ -2485,7 +2485,7 @@ process.umask = function() {
     return 0;
 };
 
-},{}],"daR04":[function(require,module,exports,__globalThis) {
+},{}],"40lb1":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -2978,7 +2978,7 @@ const Div1 = ()=>{
                 children: "fun based component"
             }, void 0, false, {
                 fileName: "app.js",
-                lineNumber: 23,
+                lineNumber: 24,
                 columnNumber: 6
             }, undefined)
         ]
@@ -2992,7 +2992,7 @@ _c1 = Div1;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Div1, {}, void 0, false, {
     fileName: "app.js",
-    lineNumber: 27,
+    lineNumber: 28,
     columnNumber: 13
 }, undefined));
 var _c, _c1;
@@ -27422,6 +27422,6 @@ module.exports = require("ee51401569654d91");
     exports.jsxDEV = jsxDEV$1;
 })();
 
-},{"58362d9d82be395f":"21dqq"}]},["aQL8O","daR04","igcvL"], "igcvL", "parcelRequire94c2")
+},{"58362d9d82be395f":"21dqq"}]},["aQL8O","40lb1","igcvL"], "igcvL", "parcelRequire94c2")
 
 //# sourceMappingURL=index.5baa4167.js.map
